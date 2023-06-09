@@ -1,0 +1,543 @@
+[
+    {
+      "title": "Grinning Face",
+      "symbol": "😀",
+      "keywords": ["face", "smile", "happy", "grin"]
+    },
+    {
+      "title": "Thumbs Up",
+      "symbol": "👍",
+      "keywords": ["thumbs", "up", "approve", "good"]
+    },
+    {
+      "title": "Heart",
+      "symbol": "❤️",
+      "keywords": ["heart", "love"]
+    },
+    {
+      "title": "Smiling Face with Sunglasses",
+      "symbol": "😎",
+      "keywords": ["face", "smile", "sunglasses", "cool"]
+    },
+    {
+      "title": "Rocket",
+      "symbol": "🚀",
+      "keywords": ["rocket", "launch", "space"]
+    },
+    {
+      "title": "Pizza",
+      "symbol": "🍕",
+      "keywords": ["pizza", "food", "cheese"]
+    },
+    {
+        "title": "Crying Face",
+        "symbol": "😢",
+        "keywords": ["face", "cry", "sad"]
+      },
+      {
+        "title": "Thumbs Down",
+        "symbol": "👎",
+        "keywords": ["thumbs", "down", "disapprove", "bad"]
+      },
+      {
+        "title": "Fire",
+        "symbol": "🔥",
+        "keywords": ["fire", "flame", "hot"]
+      },
+      {
+        "title": "Smiling Face with Heart-Eyes",
+        "symbol": "😍",
+        "keywords": ["face", "smile", "heart-eyes", "love"]
+      },
+      {
+        "title": "Sun",
+        "symbol": "☀️",
+        "keywords": ["sun", "sunny", "weather"]
+      },
+      {
+        "title": "Cake",
+        "symbol": "🍰",
+        "keywords": ["cake", "dessert", "celebration"]
+      },
+      {
+        "title": "Smiling Face with Smiling Eyes",
+        "symbol": "😊",
+        "keywords": ["face", "smile", "happy"]
+      },
+      
+      
+      {
+        "title": "Face with Tears of Joy",
+        "symbol": "😂",
+        "keywords": ["face", "tears", "joy", "laugh", "tears of joy"]
+      },
+      {
+        "title": "Blue Heart",
+        "symbol": "💙",
+        "keywords": ["blue", "heart", "love"]
+      },
+      {
+        "title": "Sunflower",
+        "symbol": "🌻",
+        "keywords": ["sunflower", "flower", "nature","sun"]
+      },
+      {
+        "title": "Panda Face",
+        "symbol": "🐼",
+        "keywords": ["panda", "animal", "cute"]
+      },
+      {
+        "title": "Snowflake",
+        "symbol": "❄️",
+        "keywords": ["snowflake", "winter", "cold"]
+      },
+      {
+        "title": "Guitar",
+        "symbol": "🎸",
+        "keywords": ["guitar", "music", "instrument"]
+      },
+      {
+        "title": "Snowman",
+        "symbol": "⛄️",
+        "keywords": ["snowman", "winter", "snow"]
+      },
+      {
+        "title": "Skull",
+        "symbol": "💀",
+        "keywords": ["skull", "dead"]
+      },
+      {
+        "title": "Peach",
+        "symbol": "🍑",
+        "keywords": ["peach", "booty"]
+      },
+      {
+        "title": "fuck",
+        "symbol": "🖕",
+        "keywords": ["fuck", "middle","finger"]
+      },
+
+
+
+
+
+      {
+        "title": "Zombie",
+        "symbol": "🧟",
+        "keywords": ["zombie"]
+      },
+      
+      {
+        "title": "Smiling Cat Face with Open Mouth",
+        "symbol": "😺",
+        "keywords": ["cat", "smile", "happy"]
+      },
+      {
+        "title": "Grinning Cat Face with Smiling Eyes",
+        "symbol": "😸",
+        "keywords": ["cat", "grin", "smile"]
+      },
+      {
+        "title": "Cat Face with Tears of Joy",
+        "symbol": "😹",
+        "keywords": ["cat", "tears", "joy", "laugh"]
+      },
+      {
+        "title": "Cat Face with Wry Smile",
+        "symbol": "😼",
+        "keywords": ["cat", "smile", "wry"]
+      },
+      {
+        "title": "Kissing Cat Face with Closed Eyes",
+        "symbol": "😽",
+        "keywords": ["cat", "kiss", "smooch"]
+      },
+      {
+        "title": "Weary Cat Face",
+        "symbol": "🙀",
+        "keywords": ["cat", "weary", "tired"]
+      },
+      {
+        "title": "Crying Cat Face",
+        "symbol": "😿",
+        "keywords": ["cat", "cry", "sad"]
+      },
+      {
+        "title": "Pouting Cat Face",
+        "symbol": "😾",
+        "keywords": ["cat", "pout", "angry"]
+      },
+      {
+        "title": "Cat Face",
+        "symbol": "🐱",
+        "keywords": ["cat", "face", "pet"]
+      },
+      {
+        "title": "Cat with Tears of Joy",
+        "symbol": "🐱😂",
+        "keywords": ["cat", "tears", "joy", "laugh"]
+      },
+      {
+        "title": "Smiling Cat with Heart-Eyes",
+        "symbol": "😻",
+        "keywords": ["cat", "smile", "heart-eyes", "love"]
+      },
+      {
+        "title": "Cat with Wry Smile",
+        "symbol": "😼",
+        "keywords": ["cat", "smile", "wry"]
+      },
+      {
+        "title": "Kissing Cat",
+        "symbol": "😽",
+        "keywords": ["cat", "kiss", "smooch"]
+      },
+      {
+        "title": "Sleepy Cat",
+        "symbol": "😺💤",
+        "keywords": ["cat", "sleep", "tired"]
+      },
+      {
+        "title": "Cat with Tongue",
+        "symbol": "😸😛",
+        "keywords": ["cat", "tongue", "playful"]
+      },
+
+
+      {
+        "title": "Zombie",
+        "symbol": "🧟",
+        "keywords": ["zombie"]
+    },
+    {
+        "title": "Alien",
+        "symbol": "👽",
+        "keywords": ["alien", "UFO", "extraterrestrial"]
+    },
+    {
+        "title": "Robot",
+        "symbol": "🤖",
+        "keywords": ["robot", "AI", "artificial intelligence"]
+    },
+    {
+        "title": "Ghost",
+        "symbol": "👻",
+        "keywords": ["ghost", "spooky", "phantom"]
+    },
+    {
+        "title": "Dragon",
+        "symbol": "🐲",
+        "keywords": ["dragon", "mythical", "fantasy"]
+    },
+    {
+        "title": "Panda",
+        "symbol": "🐼",
+        "keywords": ["panda", "bamboo"]
+    },
+    {
+        "title": "Pizza",
+        "symbol": "🍕",
+        "keywords": ["pizza", "delivery", "Italian"]
+    },
+    {
+        "title": "Unicorn",
+        "symbol": "🦄",
+        "keywords": ["unicorn", "magic", "fantasy"]
+    },
+    {
+        "title": "Surfing",
+        "symbol": "🏄",
+        "keywords": ["surfing", "beach", "waves"]
+    },
+    {
+        "title": "Coffee",
+        "symbol": "☕",
+        "keywords": ["coffee", "caffeine", "mornings"]
+    },
+    {
+        "title": "Beach",
+        "symbol": "🏖️",
+        "keywords": ["beach", "ocean", "sun", "sand"]
+      },
+      {
+        "title": "Mountain",
+        "symbol": "🏔️",
+        "keywords": ["mountain", "snow", "hiking", "camping"]
+      },
+      {
+        "title": "City",
+        "symbol": "🏙️",
+        "keywords": ["city", "skyscraper", "nightlife", "culture"]
+      },
+      {
+        "title": "Number Zero",
+        "symbol": "0️⃣",
+        "keywords": ["number", "zero"]
+      },
+      {
+        "title": "Number One",
+        "symbol": "1️⃣",
+        "keywords": ["number", "one"]
+      },
+      {
+        "title": "Number Two",
+        "symbol": "2️⃣",
+        "keywords": ["number", "two"]
+      },
+      {
+        "title": "Number Three",
+        "symbol": "3️⃣",
+        "keywords": ["number", "three"]
+      },
+      {
+        "title": "Number Four",
+        "symbol": "4️⃣",
+        "keywords": ["number", "four"]
+      },
+      {
+        "title": "Number Five",
+        "symbol": "5️⃣",
+        "keywords": ["number", "five"]
+      },
+      {
+        "title": "Number Six",
+        "symbol": "6️⃣",
+        "keywords": ["number", "six"]
+      },
+      {
+        "title": "Number Seven",
+        "symbol": "7️⃣",
+        "keywords": ["number", "seven"]
+      },
+      {
+        "title": "Number Eight",
+        "symbol": "8️⃣",
+        "keywords": ["number", "eight"]
+      },
+      {
+        "title": "Number Nine",
+        "symbol": "9️⃣",
+        "keywords": ["number", "nine"]
+      },
+      
+      
+
+    
+
+
+
+      
+     
+    {
+        "title": "Elephant",
+        "symbol": "🐘",
+        "keywords": ["animal", "elephant"]
+      },
+      {
+        "title": "Giraffe",
+        "symbol": "🦒",
+        "keywords": ["animal", "giraffe"]
+      },
+      {
+        "title": "Panda",
+        "symbol": "🐼",
+        "keywords": ["animal", "panda"]
+      },
+      {
+        "title": "Kangaroo",
+        "symbol": "🦘",
+        "keywords": ["animal", "kangaroo"]
+      },
+      {
+        "title": "Tiger",
+        "symbol": "🐅",
+        "keywords": ["animal", "tiger"]
+      },
+      {
+        "title": "Horse",
+        "symbol": "🐎",
+        "keywords": ["animal", "horse"]
+      },
+      {
+        "title": "Monkey",
+        "symbol": "🐒",
+        "keywords": ["animal", "monkey"]
+      },
+      {
+        "title": "Lion",
+        "symbol": "🦁",
+        "keywords": ["animal", "lion"]
+      },
+      {
+        "title": "Koala",
+        "symbol": "🐨",
+        "keywords": ["animal", "koala"]
+      },
+      {
+        "title": "Penguin",
+        "symbol": "🐧",
+        "keywords": ["animal", "penguin"]
+      },
+      {
+        "title": "Octopus",
+        "symbol": "🐙",
+        "keywords": ["animal", "octopus"]
+      },
+      {
+        "title": "Dog",
+        "symbol": "🐶",
+        "keywords": ["animal", "dog"]
+      },
+      {
+        "title": "Cat",
+        "symbol": "🐱",
+        "keywords": ["animal", "cat"]
+      },
+      {
+        "title": "Rabbit",
+        "symbol": "🐰",
+        "keywords": ["animal", "rabbit"]
+      },
+      {
+        "title": "Mouse",
+        "symbol": "🐭",
+        "keywords": ["animal", "mouse"]
+      },
+      {
+        "title": "Fox",
+        "symbol": "🦊",
+        "keywords": ["animal", "fox"]
+      },
+      {
+        "title": "Bear",
+        "symbol": "🐻",
+        "keywords": ["animal", "bear"]
+      },
+      {
+        "title": "Dolphin",
+        "symbol": "🐬",
+        "keywords": ["animal", "dolphin"]
+      },
+      {
+        "title": "Whale",
+        "symbol": "🐳",
+        "keywords": ["animal", "whale"]
+      },
+      {
+        "title": "Butterfly",
+        "symbol": "🦋",
+        "keywords": ["animal", "butterfly"]
+      },
+
+      {
+        "title": "Pizza",
+        "symbol": "🍕",
+        "keywords": ["food", "pizza"]
+      },
+      {
+        "title": "Hamburger",
+        "symbol": "🍔",
+        "keywords": ["food", "hamburger"]
+      },
+      {
+        "title": "Taco",
+        "symbol": "🌮",
+        "keywords": ["food", "taco"]
+      },
+      {
+        "title": "Sushi",
+        "symbol": "🍣",
+        "keywords": ["food", "sushi"]
+      },
+      {
+        "title": "Hot Dog",
+        "symbol": "🌭",
+        "keywords": ["food", "hot dog"]
+      },
+      {
+        "title": "Ice Cream",
+        "symbol": "🍦",
+        "keywords": ["food", "ice cream"]
+      },
+      {
+        "title": "Doughnut",
+        "symbol": "🍩",
+        "keywords": ["food", "doughnut"]
+      },
+      {
+        "title": "Coffee",
+        "symbol": "☕",
+        "keywords": ["drink", "coffee"]
+      },
+      {
+        "title": "Teacup",
+        "symbol": "🍵",
+        "keywords": ["drink", "tea"]
+      },
+      {
+        "title": "Cocktail",
+        "symbol": "🍹",
+        "keywords": ["drink", "cocktail"]
+      },
+      {
+        "title": "Beer",
+        "symbol": "🍺",
+        "keywords": ["drink", "beer"]
+      },
+      {
+        "title": "Wine Glass",
+        "symbol": "🍷",
+        "keywords": ["drink", "wine"]
+      },
+      {
+        "title": "Bottle with Popping Cork",
+        "symbol": "🍾",
+        "keywords": ["drink", "celebration"]
+      },
+      {
+        "title": "Lollipop",
+        "symbol": "🍭",
+        "keywords": ["food", "candy"]
+      },
+      {
+        "title": "Chocolate Bar",
+        "symbol": "🍫",
+        "keywords": ["food", "chocolate"]
+      },
+      {
+        "title": "Popcorn",
+        "symbol": "🍿",
+        "keywords": ["food", "popcorn"]
+      },
+      {
+        "title": "Strawberry",
+        "symbol": "🍓",
+        "keywords": ["food", "fruit","strawberry"]
+      },
+      {
+        "title": "Banana",
+        "symbol": "🍌",
+        "keywords": ["food", "fruit","banana"]
+      },
+      {
+        "title": "Grapes",
+        "symbol": "🍇",
+        "keywords": ["food", "fruit","grapes"]
+      },
+      {
+        "title": "Lemon",
+        "symbol": "🍋",
+        "keywords": ["food", "fruit","lemon"]
+      }
+
+
+      
+
+
+
+
+     
+
+
+  ]
+  
